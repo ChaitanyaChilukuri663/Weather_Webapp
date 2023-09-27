@@ -8,8 +8,8 @@ The Weather App is a simple web application that allows users to check the curre
 
 You can access a live demo of the Weather App [here](https://chaitanyachilukuri663.github.io/Weather_Webapp/).
 
-![Weather App Screenshot](![image](https://github.com/ChaitanyaChilukuri663/Weather_Webapp/assets/135718767/7b41983e-ccad-40bf-aaae-0858c651d31d)
-)
+![Weather App Screenshot](<img width="1280" alt="Screenshot 2023-09-27 185637" src="https://github.com/ChaitanyaChilukuri663/Weather_Webapp/assets/135718767/497b566f-eee9-4a4f-8bce-6554f6547c1a">)
+
 
 ## Getting Started
 
@@ -27,16 +27,16 @@ Before running the Weather App locally, ensure you have the following prerequisi
    git clone https://github.com/ChaitanyaChilukuri663/Weather_Webapp.git
 
 
-##Usage
+## Usage
 To check the weather for a specific city, enter the city name in the search bar and click the search button.
 To use the "Detect My Location" feature, click the "Detect My Location" button. The app will retrieve weather data for your current location based on geolocation.
 
-##Features
+## Features
 Real-time weather data display.
 Search by city name.
 "Detect My Location" feature to automatically fetch weather information based on the user's location.
 
-##Contributing
+## Contributing
 Contributions to the Weather App are welcome! If you'd like to contribute, please follow these guidelines:
 
 Fork the repository.
