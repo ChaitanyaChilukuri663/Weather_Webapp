@@ -62,7 +62,6 @@ let weather = {
     },
 
     search : function() {
-        this.fetchWeather(document.querySelector(".searchbar").value);
         const city = document.querySelector(".searchbar").value;
         if (city) {
             this.fetchWeather(city);
