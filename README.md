@@ -8,9 +8,6 @@ The Weather App is a simple web application that allows users to check the curre
 
 You can access a live demo of the Weather App [here](https://chaitanyachilukuri663.github.io/Weather_Webapp/).
 
-![Weather App Screenshot](<img width="1280" alt="Screenshot 2023-09-27 185637" src="https://github.com/ChaitanyaChilukuri663/Weather_Webapp/assets/135718767/497b566f-eee9-4a4f-8bce-6554f6547c1a">)
-
-
 ## Getting Started
 
 ### Prerequisites
